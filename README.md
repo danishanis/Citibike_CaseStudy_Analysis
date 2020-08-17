@@ -17,3 +17,8 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
  - *Matplotlib*
  - *Scikit-Learn*
  - *Scipy*
+
+## Details:
+
+### Phase 1 - Descriptive Statistics on Initial Data
+**Top 5 Stations with most starts** - 
