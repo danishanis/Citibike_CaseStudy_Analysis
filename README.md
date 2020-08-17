@@ -46,3 +46,9 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 **Busiest Bikes in NYC in January 2017**:
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/busiest_bikes.png)
+
+### Phase 2 - Predictive Modelling
+#### Visualizing Target Variable - Trip Duration
+
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_duration_viz.png)
+
