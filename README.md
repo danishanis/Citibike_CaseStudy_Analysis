@@ -24,3 +24,12 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 
 ### Phase 1 - Descriptive Statistics on Initial Data
 **Top 5 Stations with most starts** - 
+![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/top5_stns.png)
+
+**Trip Duration by User Type** - 
+![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_dur_usertype.png)
+
+![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_dur_pie.png.png)
+
+**Most Popular Trips** - 
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/popular_trips.png)
