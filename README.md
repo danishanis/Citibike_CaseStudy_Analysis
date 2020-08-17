@@ -1,7 +1,7 @@
 # Citibike_CaseStudy_Analysis
 Analysis of Citibike Data for Descriptive Statistics and Predictive Modelling
 
-![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/cover.png)
+![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/biking-in-nyc.png)
 
 ## Aim 
 
