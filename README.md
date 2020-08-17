@@ -30,6 +30,7 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
  - [Summary Statistics Questions](https://github.com/danishanis/Citibike_CaseStudy_Project#phase-1---descriptive-statistics-on-initial-data)
    - [Top 5 Stations with most Starts](https://github.com/danishanis/Citibike_CaseStudy_Project#top-5-stations-with-most-starts)
    - [Trip Duration by User Type](https://github.com/danishanis/Citibike_CaseStudy_Project#trip-duration-by-user-type)
+     - [EDA for User Type]()
    - [Most Popular Trips](https://github.com/danishanis/Citibike_CaseStudy_Project#most-popular-trips)
    - [Rider Performance by Gender & Age](https://github.com/danishanis/Citibike_CaseStudy_Project#rider-performance-by-gender--age)
    - [Busiest Bike in NYC in January 2017](https://github.com/danishanis/Citibike_CaseStudy_Project#busiest-bikes-in-nyc-in-january-2017)
@@ -59,6 +60,9 @@ The data can be obtained from the [link](https://s3.amazonaws.com/tripdata/index
 ![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/top5_stns.png)
 
 #### Trip Duration by User Type:
+
+##### *EDA for User Type* -
+Missing values formed nearly 0.44% of the User Type variable. Hence it was deemed fit to remove those rows.
 
 ![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_dur_usertype.png)
 
