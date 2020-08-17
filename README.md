@@ -47,7 +47,7 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/busiest_bikes.png)
 
-### Phase 2 - Predictive Modelling
+### Phase 2 - Data Preprocessing for Modelling
 #### Visualizing Target Variable - Trip Duration:
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_duration_viz.png)
@@ -57,3 +57,14 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_dur_user_corr.png)
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_dur_time.png)
+
+#### Data Prep - Log Transformation, Scaling & Encoding:
+
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/data_distribution.png)
+
+### Phase 3 - Predictive Modelling:
+#### Baseline Model - Linear Regression:
+
+Accuracy: *87%*
+Distribution Plot of Actual Vs. Predicted Trip Duration with Linear Regression
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/lr_act_vs_pred.png)
