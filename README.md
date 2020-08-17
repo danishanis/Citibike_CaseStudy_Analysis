@@ -1,5 +1,5 @@
 # Citibike_CaseStudy_Analysis
-*Analysis of **NYC's Citibike** Data for Descriptive Statistics and Predictive Modelling*
+*Analysis of **[NYC's Citibike](https://www.citibikenyc.com/system-data)** Data for Descriptive Statistics and Predictive Modelling*
 
 **Author: Danish Anis**
 
@@ -13,21 +13,18 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 
 **Why?** The client, the Mayor of New York City needs a better understanding of Citi Bike ridership. He wants an Operating Report with *Visual Analysis* for the Year 2017 on his desk by the end of the week. He would like Citi Bike to add a new feature to their Kiosks: "Enter a destination and we'll tell you how long the trip will take". 
 
-## Technologies/Libraries Used
+## Requirements
 
 Program written in Google Colab
 
- - *Python 3*
- - *Jupyter*
- - *Pandas*
- - *Numpy*
- - *Seaborn*
- - *Matplotlib*
- - *Scikit-Learn*
- - *Scipy*
- - *XGBoost*
- - *datetime*
- - *statsmodel.api*
+If you wish to run the notebooks in folders yourself, there are a few requirements to do so:
+
+ - Python 3.6
+   - Once this is installed run: pip3 install -r requirements.txt
+   - Alternatively, you can install Anaconda to obtain these packages.
+ - Jupyter notebook kernels for both Python3.6
+   - python3 -m pip install ipykernel
+   - python3 -m ipykernel install --user
  
 ## Table of Contents:
 
