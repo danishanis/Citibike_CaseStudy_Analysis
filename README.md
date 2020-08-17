@@ -19,9 +19,9 @@ Program written in Google Colab
 
 If you wish to run the notebooks in folders yourself, there are a few requirements to do so:
 
- - Python 3.6
+ - [Python 3.6](https://www.python.org/downloads/)
    - Once this is installed run: pip3 install -r requirements.txt
-   - Alternatively, you can install Anaconda to obtain these packages.
+   - Alternatively, you can install [Anaconda](https://www.anaconda.com/products/individual) to obtain these packages.
  - Jupyter notebook kernels for both Python3.6
    - python3 -m pip install ipykernel
    - python3 -m ipykernel install --user
