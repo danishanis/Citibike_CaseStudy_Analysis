@@ -30,6 +30,22 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 
 ## Details:
 
+### Introduction to Dataset:
+
+The data description is provided as follows -
+
+    Trip Duration (seconds)
+    Start Time and Date
+    Stop Time and Date
+    Start Station Name
+    End Station Name
+    Station ID
+    Station Lat/Long
+    Bike ID
+    User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+    Gender (Zero=unknown; 1=male; 2=female)
+    Year of Birth
+
 ### Phase 1 - Descriptive Statistics on Initial Data
 #### Top 5 Stations with most starts:
 
