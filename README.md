@@ -1,6 +1,8 @@
 # Citibike_CaseStudy_Analysis
 Analysis of Citibike Data for Descriptive Statistics and Predictive Modelling
 
+![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/cover.png)
+
 ## Aim 
 
 Analysis of New York's Citi Bike Data to visually represent what affect different independent variables like Geographical Coordinates, User Types, Gender etc. have on the Time it takes to reach Destination. 
