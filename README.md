@@ -58,13 +58,41 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_dur_time.png)
 
+#### Feature Engineering
+
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/feat_engg.png)
+
 #### Data Prep - Log Transformation, Scaling & Encoding:
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/data_distribution.png)
 
-### Phase 3 - Predictive Modelling:
+### Phase 3 - Predictive Modelling (Comparison by Distribution Plots):
 #### Baseline Model - Linear Regression:
 
 Accuracy: *87%*
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/lr_act_vs_pred.png)
+
+#### XGBoost
+
+Accuracy: 47%
+
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/xgb_dist.png)
+
+#### Polynomial Regression
+
+Accuracy: *92%*
+
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/polreg_dist.png)
+
+#### Random Forest
+
+Accuracy: 93%
+
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/rf_dist.png)
+
+#### Gradient Boosting
+
+Accuracy: *99%*
+
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/GBoost_dist.png)
