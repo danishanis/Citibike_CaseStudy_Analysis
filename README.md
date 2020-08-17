@@ -40,6 +40,11 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
      - [EDA for Missing Birth Years](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#eda-for-birth-year)
    - [Busiest Bike in NYC in January 2017](https://github.com/danishanis/Citibike_CaseStudy_Project#busiest-bikes-in-nyc-in-january-2017)
  - [Data Pre-processing for Modelling](https://github.com/danishanis/Citibike_CaseStudy_Project#phase-2---data-preprocessing-for-modelling)
+   - [Visualizing Target Variable - Trip Duration](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#visualizing-target-variable---trip-duration)
+   - [Correlation between Features & Target Variable](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#correlation-between-features--target)
+   - [Feature Engineering](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#feature-engineering)
+     - [Engineering 'Weekday & Weekend' Information from Dates]()
+     - [Avg. Speed & Duration for specific Rider & Route Type]()
 
 ## Details:
 
@@ -133,7 +138,20 @@ Realistically speaking, we would like to include only people aged 65 and below. 
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/feat_engg.png)
 
+##### *Engineering 'Weekday & Weekend' Information from Dates*
+The Start and Stop times can now serve only one purpose in modelling - categorizing whether a trip was made during a 'Rush Hour' or not. We are mostly looking to determine if the trip was started during a rush hour or not as that can impact the trip duration.
+
+**1 = Weekday** and **0 = Weekend**
+
+#### *Avg. Speed & Duration for specific Rider & Route Type* - 
+
+
+Some trips are up hill, others are down hill. Some routes, such as one through times square involve heavy traffic. Tourists (Customers), will usually ride more slowly with frequent stops than a Subscriber.
+
+Here, we'll see how these factors can correlate with the Trip Duration. We see that average trip durations between rush hours & otherwise are quiet equally divided. We can't say if adding this column will be very effective for the predictive model, but we can certainly drop the start and stop times now
+
 #### Data Prep - Log Transformation, Scaling & Encoding:
+For random distribution before modelling
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/data_distribution.png)
 
