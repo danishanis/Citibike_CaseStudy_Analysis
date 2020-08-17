@@ -67,5 +67,4 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 
 Accuracy: *87%*
 
-Distribution Plot of Actual Vs. Predicted Trip Duration with Linear Regression
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/lr_act_vs_pred.png)
