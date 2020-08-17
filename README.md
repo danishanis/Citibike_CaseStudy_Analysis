@@ -25,6 +25,9 @@ Program written in Google Colab
  - *Matplotlib*
  - *Scikit-Learn*
  - *Scipy*
+ - *XGBoost*
+ - *datetime*
+ - *statsmodel.api*
  
 ## Table of Contents:
 
