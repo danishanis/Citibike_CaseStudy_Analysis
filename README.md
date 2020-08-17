@@ -15,6 +15,8 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 
 ## Technologies/Libraries Used
 
+Program written in Google Colab
+
  - *Python 3*
  - *Jupyter*
  - *Pandas*
