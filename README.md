@@ -29,15 +29,15 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
  - [Introduction to Dataset](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#introduction-to-dataset)
  - [Summary Statistics Questions](https://github.com/danishanis/Citibike_CaseStudy_Project#phase-1---descriptive-statistics-on-initial-data)
    - [Top 5 Stations with most Starts](https://github.com/danishanis/Citibike_CaseStudy_Project#top-5-stations-with-most-starts)
-     - [EDA for Trip Durations per Station]()
+     - [EDA for Trip Durations per Station](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#eda-for-trip-durations-per-station)
    - [Trip Duration by User Type](https://github.com/danishanis/Citibike_CaseStudy_Project#trip-duration-by-user-type)
-     - [EDA for Large Trip Durations]()
+     - [EDA for Large Trip Durations](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#eda-for-large-trip-durations--)
+     - [EDA for Circular Trips Travelled](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#eda-for-circular-trips-travelled--)
+     - [EDA for '0.00' Coordinates](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#eda-for-000-coordinates--)
      - [EDA for User Type](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#eda-for-user-type--)
    - [Most Popular Trips](https://github.com/danishanis/Citibike_CaseStudy_Project#most-popular-trips)
    - [Rider Performance by Gender & Age](https://github.com/danishanis/Citibike_CaseStudy_Project#rider-performance-by-gender--age)
-     - [EDA for Missing Birth Years]()
-     - [EDA for Circular Trips Travelled]()
-     - [EDA fpr '0.00' Coordinates]()
+     - [EDA for Missing Birth Years](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#eda-for-birth-year)
    - [Busiest Bike in NYC in January 2017](https://github.com/danishanis/Citibike_CaseStudy_Project#busiest-bikes-in-nyc-in-january-2017)
  - [Data Pre-processing for Modelling](https://github.com/danishanis/Citibike_CaseStudy_Project#phase-2---data-preprocessing-for-modelling)
 
@@ -103,10 +103,10 @@ Missing values formed nearly 0.44% of the User Type variable. Hence it was deeme
 
 #### Rider Performance by Gender & Age:
 
-##### *EDA for Birth Year*
+##### *EDA for Missing Birth Years*
 Nearly 4% of the total Birth Year values in the dataset are Null. We can decide to either remove these rows or impute them. Besides **NaN**, the dataset contains some unrealistic age values, including some even from the **19th Century**! These can safely be removed. The box plot below shows the noise in this variable accurately.
 
-[!alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/year_box.png)
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/year_box.png)
 
 Realistically speaking, we would like to include only people aged 65 and below. A quick look at the number of trips in the dataset by people 70 and above shows that the data includes a lot of noise. We cannot expect **2700** trips to be made in a month by people in that age. Hence, those rows were dropped in the beginning of the case study.
 
