@@ -5,7 +5,7 @@ Analysis of **NYC's Citibike** Data for Descriptive Statistics and Predictive Mo
 
 ## Aim 
 
-Analysis of New York's Citi Bike Data to visually represent what affect different independent variables like Geographical Coordinates, User Types, Gender etc. have on the Time it takes to reach Destination. 
+Analysis of New York's Citi Bike Data to visually represent what affect different independent variables like Geographical Coordinates, User Types, Gender etc. have on the Predicting **Trip Duration** given Start & End locations. 
 
 **Why?**: Our client, the Mayor of New York City needs a better understanding of Citi Bike ridership. He wants an Operating Report with *Visual Analysis* for the Year 2017 on his desk by the end of the week.
 
