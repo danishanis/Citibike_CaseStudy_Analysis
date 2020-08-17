@@ -45,6 +45,14 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
    - [Feature Engineering](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#feature-engineering)
      - [Engineering 'Weekday & Weekend' Information from Dates]()
      - [Avg. Speed & Duration for specific Rider & Route Type]()
+   - [Log Transformation, Scaling & Encoding]()
+  - [Predictive Modelling]()
+   - [Baseline Model - Linear Regression]()
+   - [Random Forest & Random Forest with Important Features only]()
+   - [XG Boost]()
+   - [Polynomial Regression]()
+   - [Ridge Regressor]()
+   - [Best Model - Gradient Boosting]()
 
 ## Details:
 
