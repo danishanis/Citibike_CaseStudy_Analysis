@@ -23,32 +23,37 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 ## Details:
 
 ### Phase 1 - Descriptive Statistics on Initial Data
-**Top 5 Stations with most starts**:
+#### Top 5 Stations with most starts:
 
 ![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/top5_stns.png)
 
-**Trip Duration by User Type**:
+#### Trip Duration by User Type:
 
 ![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_dur_usertype.png)
 
 ![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_dur_pie.png.png)
 
-**Most Popular Trips**:
+#### Most Popular Trips:
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/popular_trips.png)
 
-**Rider Performance by Gender & Age**:
+#### Rider Performance by Gender & Age:
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/rider_perf1.png)
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/rider_perf2.png.png)
 
-**Busiest Bikes in NYC in January 2017**:
+#### Busiest Bikes in NYC in January 2017:
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/busiest_bikes.png)
 
 ### Phase 2 - Predictive Modelling
-#### Visualizing Target Variable - Trip Duration
+#### Visualizing Target Variable - Trip Duration:
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_duration_viz.png)
 
+#### Correlation between Features & Target:
+
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_dur_user_corr.png)
+
+![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/trip_dur_time.png)
