@@ -1,5 +1,9 @@
 # Citibike_CaseStudy_Analysis
-Analysis of **NYC's Citibike** Data for Descriptive Statistics and Predictive Modelling
+*Analysis of **NYC's Citibike** Data for Descriptive Statistics and Predictive Modelling*
+
+**Author: Danish Anis**
+
+**Contact: danishanis10@hotmail.com**
 
 ![alt text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/biking-in-nyc.png)
 
@@ -19,6 +23,10 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
  - *Matplotlib*
  - *Scikit-Learn*
  - *Scipy*
+ 
+## Table of Contents:
+
+ - Summary Statistics Questions
 
 ## Details:
 
