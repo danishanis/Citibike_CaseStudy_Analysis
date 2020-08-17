@@ -49,12 +49,12 @@ Program written in Google Colab
      - [Avg. Speed & Duration for specific Rider & Route Type](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#avg-speed--duration-for-specific-rider--route-type--)
    - [Log Transformation, Scaling & Encoding](https://github.com/danishanis/Citibike_CaseStudy_Project#data-prep---log-transformation-scaling--encoding)
   - [Predictive Modelling](https://github.com/danishanis/Citibike_CaseStudy_Project#phase-3---predictive-modelling-comparison-by-distribution-plots)
-   - [Baseline Model - Linear Regression](https://github.com/danishanis/Citibike_CaseStudy_Project#baseline-model---linear-regression)
-   - [Random Forest & Random Forest with Important Features only](https://github.com/danishanis/Citibike_CaseStudy_Project#random-forest)
-   - [XG Boost](https://github.com/danishanis/Citibike_CaseStudy_Project#xgboost)
-   - [Polynomial Regression](https://github.com/danishanis/Citibike_CaseStudy_Project#polynomial-regression)
-   - [Ridge Regressor]()
-   - [Best Model - Gradient Boosting](https://github.com/danishanis/Citibike_CaseStudy_Project#gradient-boosting)
+    - [Baseline Model - Linear Regression](https://github.com/danishanis/Citibike_CaseStudy_Project#baseline-model---linear-regression)
+    - [Random Forest & Random Forest with Important Features only](https://github.com/danishanis/Citibike_CaseStudy_Project#random-forest)
+    - [XG Boost](https://github.com/danishanis/Citibike_CaseStudy_Project#xgboost)
+    - [Polynomial Regression](https://github.com/danishanis/Citibike_CaseStudy_Project#polynomial-regression)
+    - [Ridge Regressor]()
+    - [Best Model - Gradient Boosting](https://github.com/danishanis/Citibike_CaseStudy_Project#gradient-boosting)
 
 ## Details:
 
