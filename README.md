@@ -43,16 +43,16 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
    - [Visualizing Target Variable - Trip Duration](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#visualizing-target-variable---trip-duration)
    - [Correlation between Features & Target Variable](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#correlation-between-features--target)
    - [Feature Engineering](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#feature-engineering)
-     - [Engineering 'Weekday & Weekend' Information from Dates]()
-     - [Avg. Speed & Duration for specific Rider & Route Type]()
-   - [Log Transformation, Scaling & Encoding]()
-  - [Predictive Modelling]()
-   - [Baseline Model - Linear Regression]()
-   - [Random Forest & Random Forest with Important Features only]()
-   - [XG Boost]()
-   - [Polynomial Regression]()
+     - [Engineering 'Weekday & Weekend' Information from Dates](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#engineering-weekday--weekend-information-from-dates)
+     - [Avg. Speed & Duration for specific Rider & Route Type](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#avg-speed--duration-for-specific-rider--route-type--)
+   - [Log Transformation, Scaling & Encoding](https://github.com/danishanis/Citibike_CaseStudy_Project#data-prep---log-transformation-scaling--encoding)
+  - [Predictive Modelling](https://github.com/danishanis/Citibike_CaseStudy_Project#phase-3---predictive-modelling-comparison-by-distribution-plots)
+   - [Baseline Model - Linear Regression](https://github.com/danishanis/Citibike_CaseStudy_Project#baseline-model---linear-regression)
+   - [Random Forest & Random Forest with Important Features only](https://github.com/danishanis/Citibike_CaseStudy_Project#random-forest)
+   - [XG Boost](https://github.com/danishanis/Citibike_CaseStudy_Project#xgboost)
+   - [Polynomial Regression](https://github.com/danishanis/Citibike_CaseStudy_Project#polynomial-regression)
    - [Ridge Regressor]()
-   - [Best Model - Gradient Boosting]()
+   - [Best Model - Gradient Boosting](https://github.com/danishanis/Citibike_CaseStudy_Project#gradient-boosting)
 
 ## Details:
 
@@ -146,7 +146,7 @@ Realistically speaking, we would like to include only people aged 65 and below. 
 
 ![alt_text](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/images/feat_engg.png)
 
-##### *Engineering 'Weekday & Weekend' Information from Dates*
+#### *Engineering 'Weekday & Weekend' Information from Dates*
 The Start and Stop times can now serve only one purpose in modelling - categorizing whether a trip was made during a 'Rush Hour' or not. We are mostly looking to determine if the trip was started during a rush hour or not as that can impact the trip duration.
 
 **1 = Weekday** and **0 = Weekend**
