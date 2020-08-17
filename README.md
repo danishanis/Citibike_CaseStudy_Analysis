@@ -1,5 +1,5 @@
 # Citibike_CaseStudy_Analysis
-*Analysis of **[NYC's Citibike](https://www.citibikenyc.com/system-data)** Data for Descriptive Statistics and Predictive Modelling*
+*Analysis of **[NYC's Citi Bike](https://www.citibikenyc.com/system-data)** Data for Descriptive Statistics and Predictive Modelling*
 
 **Author: Danish Anis**
 
