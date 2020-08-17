@@ -28,18 +28,18 @@ Analysis of New York's Citi Bike Data to visually represent what affect differen
 
  - [Introduction to Dataset](https://github.com/danishanis/Citibike_CaseStudy_Project/blob/master/README.md#introduction-to-dataset)
  - [Summary Statistics Questions](https://github.com/danishanis/Citibike_CaseStudy_Project#phase-1---descriptive-statistics-on-initial-data)
-     - [Top 5 Stations with most Starts](https://github.com/danishanis/Citibike_CaseStudy_Project#top-5-stations-with-most-starts)
-     - [Trip Duration by User Type](https://github.com/danishanis/Citibike_CaseStudy_Project#trip-duration-by-user-type)
-     - [Most Popular Trips](https://github.com/danishanis/Citibike_CaseStudy_Project#most-popular-trips)
-     - [Rider Performance by Gender & Age](https://github.com/danishanis/Citibike_CaseStudy_Project#rider-performance-by-gender--age)
-     - [Busiest Bike in NYC in January 2017](https://github.com/danishanis/Citibike_CaseStudy_Project#busiest-bikes-in-nyc-in-january-2017)
+   - [Top 5 Stations with most Starts](https://github.com/danishanis/Citibike_CaseStudy_Project#top-5-stations-with-most-starts)
+   - [Trip Duration by User Type](https://github.com/danishanis/Citibike_CaseStudy_Project#trip-duration-by-user-type)
+   - [Most Popular Trips](https://github.com/danishanis/Citibike_CaseStudy_Project#most-popular-trips)
+   - [Rider Performance by Gender & Age](https://github.com/danishanis/Citibike_CaseStudy_Project#rider-performance-by-gender--age)
+   - [Busiest Bike in NYC in January 2017](https://github.com/danishanis/Citibike_CaseStudy_Project#busiest-bikes-in-nyc-in-january-2017)
  - [Data Pre-processing for Modelling](https://github.com/danishanis/Citibike_CaseStudy_Project#phase-2---data-preprocessing-for-modelling)
 
 ## Details:
 
 ### Introduction to Dataset:
 
-The data description is provided as follows -
+The data can be obtained from the [link](https://s3.amazonaws.com/tripdata/index.html). As per the instrucitons, analysis & subsequent modelling was to be performed on only **January 2017 data**. The description of variables is provided as follows -
 
     Trip Duration (seconds)
     Start Time and Date
